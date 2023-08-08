@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Milan Ajder</h1>
 <h3 align="center">I am final year student pursuing a degree in Software Engineering and Information Technologies at the Faculty of Technical Sciences, University of Novi Sad</h3>
-
+ 
 - 🌱 I’m currently learning **Android**
 
 - 📫 How to reach me **ajder.milan2000@gmail.com**
