@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Milan Ajder</h1>
-<h3 align="center">I am final year Software Engineering and Information Technologies student at the Faculty of Technical Sciences, University of Novi Sad</h3>
+<h3 align="center">I'm currently in the final year of my master's program at the Faculty of Technical Sciences, University of Novi Sad, majoring in Software Engineering and Information Technologies.</h3>
 
 - 🌱 I’m currently learning **Android**
 
